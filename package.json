@@ -1,0 +1,12 @@
+{
+  "name": "turinpass-crypto",
+  "version": "1.0.0",
+  "description": "auxiliar cryptographic library for consuming turinpass-API.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Helker Hubbard",
+  "license": "ISC"
+}
